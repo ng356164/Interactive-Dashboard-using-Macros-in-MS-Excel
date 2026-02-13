@@ -7,7 +7,7 @@ I have created a interactive dashboard using macros, spin tool in MS Excel.. Thi
 - Time taken for break taken by them
 - Company wants to find the efficieny of employees
 
-  Conclusion
+  ##Conclusion
   The company needs to be less-friendly with the employees.. It should be inspecting employees once in a week.. Needs to formulate few strict rules regarding work culture
 
 #Dashboard

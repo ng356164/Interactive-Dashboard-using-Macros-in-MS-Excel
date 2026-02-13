@@ -1,5 +1,5 @@
 # Tools and Process used in Project
-I have created a interactive dashboard using macros, spin tool in MS Excel.. This project invovled data cleaning, data processing,data visualisation and formulas
+I have created a interactive dashboard using macros, spin tool in MS Excel.. This project invovled data cleaning, data processing,data visualisation and MS Excel formulas
 
 # Project Objective
 The Call Centre company wants to find out working hours, break taken and efficiency of the employees..
